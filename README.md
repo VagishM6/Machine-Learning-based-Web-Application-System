@@ -1,3 +1,3 @@
 # Machine-Learning-based-Web-Application-System
 
-A Hotel Room booking Web Application System written with React framework.
+A Hotel Room booking Web Application System built with React framework.
